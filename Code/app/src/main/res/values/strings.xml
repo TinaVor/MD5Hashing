@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MD5-Hashing</string>
+    <string name="message">Message</string>
+</resources>
